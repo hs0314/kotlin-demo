@@ -5,6 +5,11 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+# 기타 .idea 설정 파일들 무시
+.idea/misc.xml
+.idea/vcs.xml
+.idea/.name
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
